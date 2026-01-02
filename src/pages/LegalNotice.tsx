@@ -60,7 +60,7 @@ export default function LegalNotice() {
                             <strong>Phone:</strong> +1 (914) 510-8910
                         </p>
                         <p className="text-slate-400 leading-relaxed mb-2">
-                            <strong>WhatsApp:</strong> +33 7 45 88 96 74
+                            <strong>WhatsApp:</strong> <a href="https://wa.link/g46bn7" className="text-emerald-600 hover:text-emerald-700 underline">Chat on WhatsApp</a>
                         </p>
                         <p className="text-slate-400 leading-relaxed mb-2">
                             <strong>Customer Support Hours:</strong> Monday - Sunday, 9:00 AM - 11:00 PM (CET)

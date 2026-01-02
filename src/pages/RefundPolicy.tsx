@@ -49,7 +49,7 @@ export default function RefundPolicy() {
                             To request a refund, please follow these steps:
                         </p>
                         <ol className="list-decimal pl-6 text-slate-700 mb-4">
-                            <li className="mb-2">Contact our customer support team via email at support@galaxyconnect.online or WhatsApp at +33 7 45 88 96 74</li>
+                            <li className="mb-2">Contact our customer support team via email at support@galaxyconnect.online or via <a href="https://wa.link/g46bn7" className="text-emerald-600 hover:underline">WhatsApp</a></li>
                             <li className="mb-2">Provide your order number and the email address used for the purchase</li>
                             <li className="mb-2">Briefly explain the reason for your refund request (optional but helpful)</li>
                             <li className="mb-2">Our team will review your request and respond within 24-48 hours</li>
@@ -109,7 +109,7 @@ export default function RefundPolicy() {
                         </p>
                         <p className="text-slate-700 leading-relaxed">
                             <strong>Email:</strong> support@galaxyconnect.online<br />
-                            <strong>WhatsApp:</strong> +33 7 45 88 96 74<br />
+                            <strong>WhatsApp:</strong> <a href="https://wa.link/g46bn7" className="text-emerald-600 hover:underline">Chat with us</a><br />
                             <strong>Support Hours:</strong> Monday - Sunday, 9:00 AM - 11:00 PM (CET)
                         </p>
                     </section>

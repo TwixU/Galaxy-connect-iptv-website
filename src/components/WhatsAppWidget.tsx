@@ -1,11 +1,9 @@
 import { MessageCircle } from 'lucide-react';
 
 export default function WhatsAppWidget() {
-    const phoneNumber = "33745889674"; // Your WhatsApp number
-    const message = encodeURIComponent("Hello! I have a question about Galaxy Connect.");
 
     const handleClick = () => {
-        window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank');
+        window.open(`https://wa.link/g46bn7`, '_blank');
     };
 
     return (

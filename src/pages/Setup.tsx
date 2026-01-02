@@ -161,8 +161,8 @@ export default function Setup() {
                                     key={device.id}
                                     onClick={() => setSelectedDevice(device.id)}
                                     className={`p-6 rounded-2xl border-2 transition-all duration-300 ${isSelected
-                                            ? 'border-emerald-500 bg-emerald-500/10 scale-105 shadow-xl shadow-emerald-500/20'
-                                            : 'border-white/10 bg-slate-900/50 hover:border-emerald-500/50 hover:bg-slate-800/50'
+                                        ? 'border-emerald-500 bg-emerald-500/10 scale-105 shadow-xl shadow-emerald-500/20'
+                                        : 'border-white/10 bg-slate-900/50 hover:border-emerald-500/50 hover:bg-slate-800/50'
                                         }`}
                                 >
                                     <div className={`w-16 h-16 mx-auto mb-4 rounded-2xl bg-gradient-to-br ${device.color} flex items-center justify-center`}>
@@ -250,7 +250,7 @@ export default function Setup() {
                             <div className="flex flex-col sm:flex-row gap-4 justify-center">
                                 <Button
                                     size="lg"
-                                    onClick={() => window.open('https://wa.me/33745889674?text=Hello! I need help with the setup.', '_blank')}
+                                    onClick={() => window.open('https://wa.link/g46bn7', '_blank')}
                                     className="bg-emerald-500 hover:bg-emerald-400 text-black font-bold"
                                 >
                                     Contact Support on WhatsApp

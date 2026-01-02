@@ -132,7 +132,7 @@ export default function ThankYou() {
                                     Email: <a href="mailto:support@galaxyconnect.online" className="text-emerald-400 hover:underline">support@galaxyconnect.online</a>
                                 </p>
                                 <p className="text-sm md:text-base text-slate-300">
-                                    WhatsApp: <a href="https://wa.me/33745889674" className="text-emerald-400 hover:underline">+33 7 45 88 96 74</a>
+                                    WhatsApp: <a href="https://wa.link/g46bn7" className="text-emerald-400 hover:underline">Chat on WhatsApp</a>
                                 </p>
                             </div>
 
